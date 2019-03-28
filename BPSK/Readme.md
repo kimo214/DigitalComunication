@@ -14,15 +14,15 @@ BPSK is the simplest form of phase shift keying (PSK), where “binary” refers
 ### - Before AWGN Channel
 * Without Raised Cosine Filter:
 
-    ![Regular](/BPSK/Before.png) 
+    ![Regular](/BPSK/Before.PNG) 
 * With Raised Cosine Filter:
 
-    ![Raised Cosine Filter](/BPSK/RaisedCosineBefore.png) 
+    ![Raised Cosine Filter](/BPSK/RaisedCosineBefore.PNG) 
 ### - After AWGN Channel
 * Without Raised Cosine Filter: 
 
-    ![Regular](/BPSK/After.png) 
+    ![Regular](/BPSK/After.PNG) 
 * With Raised Cosine Filter:
 
-    ![Raised Cosine Filter](/BPSK/RaisedCosineAfter.png) 
+    ![Raised Cosine Filter](/BPSK/RaisedCosineAfter.PNG) 
 
