@@ -14,15 +14,15 @@ Frequency-shift keying (FSK) is a frequency modulation scheme in which digital i
 ### - Before AWGN Channel
 * Without Raised Cosine Filter:
 
-    ![Regular](/FSK/Before.png) 
+    ![Regular](/FSK/Before.PNG) 
 * With Raised Cosine Filter:
 
-    ![Raised Cosine Filter](/FSK/RaisedCosineBefore.png) 
+    ![Raised Cosine Filter](/FSK/RaisedCosineBefore.PNG) 
 ### - After AWGN Channel
 * Without Raised Cosine Filter: 
 
-    ![Regular](/FSK/After.png) 
+    ![Regular](/FSK/After.PNG) 
 * With Raised Cosine Filter:
 
-    ![Raised Cosine Filter](/FSK/RaisedCosineAfter.png) 
+    ![Raised Cosine Filter](/FSK/RaisedCosineAfter.PNG) 
 
