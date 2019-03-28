@@ -14,15 +14,15 @@ QAM conveys two analog message signals, or two digital bit streams, by changing 
 ### - Before AWGN Channel
 * Without Raised Cosine Filter:
 
-    ![Regular](/QAM16/Before.png) 
+    ![Regular](/QAM16/Before.PNG) 
 * With Raised Cosine Filter:
 
-    ![Raised Cosine Filter](/QAM16/RaisedCosineBefore.png) 
+    ![Raised Cosine Filter](/QAM16/RaisedCosineBefore.PNG) 
 ### - After AWGN Channel
 * Without Raised Cosine Filter: 
 
-    ![Regular](/QAM16/After.png) 
+    ![Regular](/QAM16/After.PNG) 
 * With Raised Cosine Filter:
 
-    ![Raised Cosine Filter](/QAM16/RaisedCosineAfter.png) 
+    ![Raised Cosine Filter](/QAM16/RaisedCosineAfter.PNG) 
 
