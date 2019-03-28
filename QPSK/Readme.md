@@ -14,15 +14,15 @@ QPSK is a modulation scheme that allows one symbol to transfer two bits of data.
 ### - Before AWGN Channel
 * Without Raised Cosine Filter:
 
-    ![Regular](/QPSK/Before.png) 
+    ![Regular](/QPSK/Before.PNG) 
 * With Raised Cosine Filter:
 
-    ![Raised Cosine Filter](/QPSK/RaisedCosineBefore.png) 
+    ![Raised Cosine Filter](/QPSK/RaisedCosineBefore.PNG) 
 ### - After AWGN Channel
 * Without Raised Cosine Filter: 
 
-    ![Regular](/QPSK/After.png) 
+    ![Regular](/QPSK/After.PNG) 
 * With Raised Cosine Filter:
 
-    ![Raised Cosine Filter](/QPSK/RaisedCosineAfter.png) 
+    ![Raised Cosine Filter](/QPSK/RaisedCosineAfter.PNG) 
 
